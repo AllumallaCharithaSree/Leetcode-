@@ -1,5 +1,3 @@
-1991. Find the Middle Index in Array
-
 class Solution {
     public int findMiddleIndex(int[] nums) {
        int n = nums.length;
