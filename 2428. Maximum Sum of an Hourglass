@@ -1,5 +1,3 @@
-2428. Maximum Sum of an Hourglass
-
 class Solution {
     public int maxSum(int[][] grid) {
       int nr = grid.length;
